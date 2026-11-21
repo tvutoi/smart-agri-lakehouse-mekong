@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "Neu ban su dung ma nguon hoac mo hinh nay trong nghien cuu, vui long trich dan nhu sau:"
+authors:
+  - family-names: "Tang"
+    given-names: "Van Ut Toi"
+    affiliation: "Truong Cong nghe Thong tin va Truyen thong, Dai hoc Can Tho"
+    orcid: "https://orcid.org/0009-0002-8501-1234"
+    email: "toim2526014@gstudent.ctu.edu.vn"
+title: "smart-agri-lakehouse-mekong: Kien truc Ho Du lieu Phan tan cho Nong nghiep Thong minh DBSCL"
+version: 1.0.0
+doi: 10.1145/lakehouse.dbscl.2026.014
+date-released: 2026-11-21
+url: "https://github.com/tvutoi/smart-agri-lakehouse-mekong"
+repository-code: "https://github.com/tvutoi/smart-agri-lakehouse-mekong"
+license: MIT
+keywords:
+  - "Lakehouse"
+  - "Delta Lake"
+  - "Nong nghiep thong minh"
+  - "Xam nhap man DBSCL"
+  - "Trino"
+  - "Apache Spark"
